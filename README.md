@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou @BrunaGPires
 - 👀 Cursando Sistemas para internet
-- 🌱 Estudando: Python
+- 🌱 Estudando: Python e Java
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Buba-Python" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
