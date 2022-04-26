@@ -1,13 +1,13 @@
-- 👋 Olá! Eu sou @BrunaGPires
-- 👀 Cursando Sistemas para internet
-- 🌱 Estudando: Python e Java
+- 👋 Olá! Eu sou Bruna Pires
+- 👀 Estou cursando Sistemas para internet
+- 🌱 Estudando: Java e Python
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Buba-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Buba-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="right" alt="Buba-Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ##
