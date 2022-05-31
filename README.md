@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Bruna Pires
 - 👀 Estou cursando Sistemas para internet
-- 🌱 Estudando: Java e Python
+- 🌱 Estudando: Java e MySQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Buba-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
