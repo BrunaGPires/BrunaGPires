@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou Bruna Pires.<br>Estudante de Sistemas para Internet, sou fascinada por computação desde criança.
-- 🚀 Estudando: C# e MySQL
+- 🚀 Estudando: C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Buba-CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
