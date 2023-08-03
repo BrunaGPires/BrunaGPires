@@ -1,23 +1,29 @@
 ## Hi! I'm Bruna 👋
 
-<p align="center">
-  <img src="" />
+<p align="center" heigth="200">
+  <img src="./assets/gatinho.gif" />
 </p>
-<img align='right' src="" width="200">
+<img align='right' src="./assets/octocat-1691074644357.png" width="200">
 
 - Internet Systems student.
-- I'm an enthusiastic about backend development. My currently stack is .Net.
+- I'm keen about backend development.
 - I'm improving my knowledge in C# and .Net.
-- love new tech and love meeting new places.
+- I love meeting new places and new people.
+- I'm currently participating in Nova Geração project by Instituto Caldeira
 
-<p align='center'><i><b> feel free to contact me :) </i></b>
+<p align='center'><i><b>feel free to contact me :)</i></b>
 
  <details>
   <summary><b>PT/BR</b></summary>
     <h2>Olá, eu sou a Bruna</h2>
 
 - Estudante de Sistemas para Internet.
-- Estou aprofundando os meus conhecimentos em C#, .NET
+- Estou interessado em desenvolvimento de back-end.
+- Estou aprofundando os meus conhecimentos em C#, .NET.
+- Adoro conhecer novos lugares e novas pessoas.
+- Atualmente estou participando do projeto Nova Geração do Instituto Caldeira
+
+<p align='center'><i><b>sinta-se livre para me contatar :)</i></b>
 
 </summary>
 </details>
