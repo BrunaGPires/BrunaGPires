@@ -9,7 +9,8 @@
 - I'm keen about backend development.
 - I'm improving my knowledge in C# and .Net.
 - I love meeting new places and new people.
-- I'm currently participating in Nova Geração project by Instituto Caldeira
+- I am currently participating in the WEX bootcamp - .NET Development and QA at DIO
+- I participated in the Nova Geração project by Instituto Caldeira
 
 <p align='center'><i><b>feel free to contact me :)</i></b>
 
@@ -21,7 +22,8 @@
 - Estou interessado em desenvolvimento de back-end.
 - Estou aprofundando os meus conhecimentos em C#, .NET.
 - Adoro conhecer novos lugares e novas pessoas.
-- Atualmente estou participando do projeto Nova Geração do Instituto Caldeira
+- Atualmente estou participando do bootcamp WEX - Desenvolvimento .NET e QA da DIO
+- Participei do Projeto Nova Geração do Instituto Caldeira
 
 <p align='center'><i><b>sinta-se livre para me contatar :)</i></b>
 
