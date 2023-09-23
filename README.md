@@ -6,11 +6,12 @@
 <img align='right' src="./assets/octocat-1691074644357.png" width="200">
 
 - Internet Systems student.
-- I'm interested in backend development
-- I'm improving my knowledge in C# and .Net.
-- I love meeting new places and new people.
-- I am currently participating in the WEX bootcamp - .NET Development and QA at DIO
-- I participated in the Nova Geração project by Instituto Caldeira
+- Aspiring backend developer.
+- Focusing on improving my knowledge in C# and .NET.
+- Passionate about exploring new places and connecting with new people.
+- Participant in the "100 days of code" challenge by He4rt Developers. Sharing my journey and progress on Twitter.
+- Currently enrolled in the WEX bootcamp - .NET Development and QA at DIO.
+- Previous involvement in the Nova Geração project by Instituto Caldeira.
 
 <p align='center'><i><b>feel free to contact me :)</i></b>
 
@@ -19,11 +20,12 @@
     <h2>Olá, eu sou a Bruna</h2>
 
 - Estudante de Sistemas para Internet.
-- Estou interessado em desenvolvimento de back-end.
-- Estou aprofundando os meus conhecimentos em C#, .NET.
-- Adoro conhecer novos lugares e novas pessoas.
-- Atualmente estou participando do bootcamp WEX - Desenvolvimento .NET e QA da DIO
-- Participei do Projeto Nova Geração do Instituto Caldeira
+- Estou interessada em desenvolvimento back-end.
+- Focada em aprimorar meu conhecimento em C# e .NET.
+- Adoro explorar novos lugares e conhecer novas pessoas.
+- Participante do desafio "100 dias de código" pela Comunidade He4rt Developers. Compartilhando meu progresso no Twitter.
+- Atualmente matriculado no bootcamp WEX - Desenvolvimento .NET e QA da DIO.
+- Participei do Projeto Nova Geração do Instituto Caldeira.
 
 <p align='center'><i><b>sinta-se livre para me contatar :)</i></b>
 
