@@ -6,7 +6,7 @@
 <img align='right' src="./assets/octocat-1691074644357.png" width="200">
 
 - Internet Systems student.
-- I'm keen about backend development.
+- I'm interested in backend development
 - I'm improving my knowledge in C# and .Net.
 - I love meeting new places and new people.
 - I am currently participating in the WEX bootcamp - .NET Development and QA at DIO
