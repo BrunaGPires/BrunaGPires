@@ -42,8 +42,10 @@
 </div>
 
 ##
-
- <div align="center">
+<div align="center">
+  <img height="180em" src="https://100-dias-de-codigo-github-readme.vercel.app/?username=burritosocks"/>
+</div>
+ <div align="center"> 
   <a href="https://github.com/BrunaGPires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaGPires&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGPires&theme=dark&show_icons=true"/>
