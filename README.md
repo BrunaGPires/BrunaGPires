@@ -42,13 +42,11 @@
 </div>
 
 ##
-<div align="center">
-  <img height="180em" src="https://100-dias-de-codigo-github-readme.vercel.app/?username=burritosocks"/>
-</div>
  <div align="center"> 
   <a href="https://github.com/BrunaGPires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaGPires&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGPires&theme=dark&show_icons=true"/>
+  <!--<img height="180em" src="https://100-dias-de-codigo-github-readme.vercel.app/?username=burritosocks"/>-->
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -60,4 +58,4 @@
   <img alt="Buba-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/BrunaGPires/BrunaGPires/blob/output/github-contribution-grid-snake.svg)  
+[![An image of @brunagpires's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brunagpires)](https://holopin.io/@brunagpires)
