@@ -56,6 +56,7 @@
   <img alt="Buba-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="Buba-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Buba-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Buba-MD" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
 [![An image of @brunagpires's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/brunagpires)](https://holopin.io/@brunagpires)
