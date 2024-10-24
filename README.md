@@ -1,16 +1,15 @@
 ## Hi! I'm Bruna 👋
 
-<p align="center" heigth="200">
+<p align="center" heigth="150">
   <img src="./assets/gatinho.gif" />
 </p>
-<img align='right' src="./assets/octocat-1691074644357.png" width="200">
+<!-- <img align='right' src="./assets/octocat-1691074644357.png" width="200"> -->
 
 - Internet Systems student.
-- Aspiring backend developer.
-- Focusing on improving my knowledge in C# and .NET.
+- I’m interested in back-end development and robotics.
+- Focused on improving my knowledge in C#, .NET, and Arduino.
 - Passionate about exploring new places and connecting with new people.
-- Participant in the "100 days of code" challenge by He4rt Developers. Sharing my journey and progress on Twitter.
-- Currently enrolled in the WEX bootcamp - .NET Development and QA at DIO.
+- Completed a course in Logic Programming with JavaScript and Soft Skills from SENAC.
 - Previous involvement in the Nova Geração project by Instituto Caldeira.
 
 <p align='center'><i><b>feel free to contact me :)</i></b>
@@ -20,11 +19,11 @@
     <h2>Olá, eu sou a Bruna</h2>
 
 - Estudante de Sistemas para Internet.
-- Estou interessada em desenvolvimento back-end.
-- Focada em aprimorar meu conhecimento em C# e .NET.
+- Estou interessada em desenvolvimento back-end e robótica.
+- Focada em aprimorar meu conhecimento em C#, .NET e Arduino.
 - Adoro explorar novos lugares e conhecer novas pessoas.
 - Participante do desafio "100 dias de código" pela Comunidade He4rt Developers. Compartilhando meu progresso no Twitter.
-- Atualmente matriculado no bootcamp WEX - Desenvolvimento .NET e QA da DIO.
+- Tenho formação no curso de Lógica de Programação com JavaScript e Soft Skills do SENAC RS.
 - Participei do Projeto Nova Geração do Instituto Caldeira.
 
 <p align='center'><i><b>sinta-se livre para me contatar :)</i></b>
